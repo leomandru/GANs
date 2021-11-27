@@ -5,6 +5,8 @@ Lecture Notes in Computer Science (LNCS) of Springer-Verlag.
 
 It consists of the following files:
 
+  GANs.tex           the actual project
+
   readme.txt         this file
 
   history.txt        the version history of the package
